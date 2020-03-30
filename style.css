@@ -1,0 +1,133 @@
+body{
+    background-color:#3f3f3f;
+    display: grid;
+    align-items: center;
+}
+.navbar{
+    display: flex;
+}
+.menu-items{
+    text-align: center;
+    padding-left: 198px;
+    font-size: 15px;
+    margin: 32px;
+}
+.menu-items a{
+    padding: 40px;
+    color: #e5e5e5;
+    text-decoration: none;
+}
+.logo a{
+    padding-left: 150px;
+    font-size: 22px;
+    color: #e5e5e5;
+    text-decoration: none;
+}
+.logo{
+    margin: 5px;
+    padding-top: 35px;
+}
+#btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 1px;
+    background-color: #3f3f3f;
+    color: #e5e5e5;
+}
+.image{
+    padding-left: 140px;
+    padding-top: 160px;
+}
+.container{
+    display: flex;
+}
+.text{
+    padding: 225px;
+}
+h1{
+    height: 21px;
+    width: 350px;
+    color:#e5e5e5;
+    text-align: center;
+}
+h4{
+    height: 8px;
+    color: #ed9862;
+    text-align: center;
+    padding-top: 5px;
+}
+p{
+    height: 100px;
+    width: 380px;
+    text-align: center;
+    padding-top: 30px;
+    color:#d4d4d4;
+}
+#p-btn{
+    color: #f7f7f7;
+}
+.btn-container{
+    width: 150px;
+    height: 50px;
+    color:#ffffff;
+    background-color: #ffa366;
+    border-radius: 4px;
+    margin-left: 20px;
+}
+.footer{
+    text-align: -webkit-center;
+}
+#btn-footer{
+    width: 150px;
+    height: 50px;
+    color:#ffffff;
+    background-color: #ffa366;
+    border-radius: 4px;
+}
+.under{
+    align-items: center;
+}
+.under-hr-left{
+    display: flex;
+    justify-content: space-around;
+}
+.under-hr-right{
+    padding-left: 900px;
+    justify-content: space-around;
+}
+.under-hr-left a{
+    color: #e5e5e5;
+    text-decoration: none;
+    letter-spacing: normal;
+    font-size: 11px;
+    columns: #777777;
+}
+.under-hr-right a{
+    text-decoration: none;
+    color: #e5e5e5;
+}
+hr{
+    width: 1200px;
+    text-align: start;
+}
+/* .footer h1{
+    color: #ffffff;
+    width: 420px;
+    text-align: center;
+    padding-top: 50px;
+}
+.footer p{
+    color: #a9a9a9;
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+}
+
+.under-hr-left a{
+    text-decoration: none;
+    color: #a9a9a9;
+}
+.under-hr-right a{
+    text-decoration: none;
+    color: #a9a9a9;
+} */
